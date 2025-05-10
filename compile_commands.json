@@ -1,0 +1,46 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-O2",
+      "-I/usr/include/glib-2.0",
+      "-I/usr/lib64/glib-2.0/include",
+      "-DWITH_GZFILEOP",
+      "-I/usr/include/libmount",
+      "-I/usr/include/blkid",
+      "-I/usr/include/sysprof-6",
+      "-pthread",
+      "-c",
+      "-o",
+      "main.o",
+      "main.c"
+    ],
+    "directory": "/home/clayton/Developer/repos/clanktron/autoLightDark",
+    "file": "/home/clayton/Developer/repos/clanktron/autoLightDark/main.c",
+    "output": "/home/clayton/Developer/repos/clanktron/autoLightDark/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-O2",
+      "-I/usr/include/glib-2.0",
+      "-I/usr/lib64/glib-2.0/include",
+      "-DWITH_GZFILEOP",
+      "-I/usr/include/libmount",
+      "-I/usr/include/blkid",
+      "-I/usr/include/sysprof-6",
+      "-pthread",
+      "-c",
+      "-o",
+      "sunrise_sunset.o",
+      "sunrise_sunset.c"
+    ],
+    "directory": "/home/clayton/Developer/repos/clanktron/autoLightDark",
+    "file": "/home/clayton/Developer/repos/clanktron/autoLightDark/sunrise_sunset.c",
+    "output": "/home/clayton/Developer/repos/clanktron/autoLightDark/sunrise_sunset.o"
+  }
+]
